@@ -25,5 +25,31 @@ El autor no se hace responsable por el uso inadecuado de las herramientas comput
 
 Se permite la modificación y mejora de los manuales, libros de cálculo electrónicos, scripts y demás herramientas propias incluidas en este software, siempre y cuando se preserven las misma libertades de distribución y copia de las modificaciones realizadas. Al realizar modificaciones, se compromete y obliga a publicarlas y a notificar al autor original a través del correo electrónico r.cfdtools@gmail.com, quién podrá incorporarlas a la versión oficial para su posterior distribución.
 
-No se permite la privatización, acaparamiento, venta o distribución comercial ​​​​​​​de este software, ni ningúno de sus componentes, ni de las memorias de cálculo, de los scripts y demás herramientas complementarias que se encuentran en el paquete de datos de instalación.
+No se permite la privatización, acaparamiento, venta o distribución comercial de este software, ni ningúno de sus componentes, ni de las memorias de cálculo, de los scripts y demás herramientas complementarias que se encuentran en el paquete de datos de instalación.
 
+Instalación y configuración
+**************************
+
+	Ruta nativa absoluta en D:\R.Weather\
+
+	Ruta nativa GIS absoluta en D:\R.WeatherGIS\
+	
+	Ejecución desde el acceso directo D:\R.Weather\R.Weather o desde D:\R.Weather\DB\R.Weather.accdb
+
+	Software requerido
+		Microsoft® Access® para Microsoft 365 MSO (16.0.13901.20148 o superior) 32 o 64 bits. Instalado sobre unidad SSD.
+		ESRI ArcGIS for Desktop 10.2.2 en Inglés.
+
+	Hardware
+		Monitor con resolución: 1920 x 1080p.
+		Memoria RAM: 16 GB.
+		Procesador: Intel Core i7 serie HQ, H, X, Z. Intel Xeon. (recomendados)
+		Unidades de almacenamiento: Unidad C mínimo 256GB m.2 SSD y unidad D mínimo 512GB SSD SATA o m.2. (recomendados)
+		Para una única unidad de almacenamiento de estado sólido se requieren de dos particiones o de la asignación de letra de unidad como D:\
+		Tarjeta de video externa: Aceleradora mínimo 2GB para representación de escenas 3D y renderizado de modelos de terreno en 2D.
+
+	Configuración adiciona requerida en Microsoft® Access® para Microsoft 365
+		
+		Permitir el uso de macros: Ejecutar la aplicación y en el menú Archivo seleccionar Opciones de Access - Centros de Confianza - Configuración del Centro de Confianza - Configuración de Macros - Habilitar todas las macros.
+		
+		Configuración de cliente: Ejecutar la aplicación y en el menú Archivo seleccionar Opciones de Access - Configuración de Cliente - Confirmar, desactivar las casillas Cambios en los registros y Consultas de Acción, dejar marcado Eliminaciones de Documento.

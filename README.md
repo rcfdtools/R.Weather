@@ -48,7 +48,7 @@ Instalación y configuración
 		Para una única unidad de almacenamiento de estado sólido se requieren de dos particiones o de la asignación de letra de unidad como D:\
 		Tarjeta de video externa: Aceleradora mínimo 2GB para representación de escenas 3D y renderizado de modelos de terreno en 2D.
 
-	Configuración adiciona requerida en Microsoft® Access® para Microsoft 365
+	Configuración adicional requerida en Microsoft® Access® para Microsoft 365
 		
 		Permitir el uso de macros: Ejecutar la aplicación y en el menú Archivo seleccionar Opciones de Access - Centros de Confianza - Configuración del Centro de Confianza - Configuración de Macros - Habilitar todas las macros.
 		

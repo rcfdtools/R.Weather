@@ -36,6 +36,9 @@ Instalación y configuración
 	
 	Ejecución desde el acceso directo D:\R.Weather\R.Weather o desde D:\R.Weather\DB\R.Weather.accdb
 
+	Sistema operativo
+		Microsoft Windows [Versión 10.0.19043.1055] 
+		
 	Software requerido
 		Microsoft® Access® para Microsoft 365 MSO (16.0.13901.20148 o superior) 32 o 64 bits. Instalado sobre unidad SSD.
 		ESRI ArcGIS for Desktop 10.2.2 en Inglés.

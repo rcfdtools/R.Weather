@@ -30,9 +30,9 @@ Se permite la modificación y mejora de los manuales, libros de cálculo electr�
 No se permite la privatización, acaparamiento, venta o distribución comercial de este software, ni ningúno de sus componentes, ni de las memorias de cálculo, de los scripts y demás herramientas complementarias que se encuentran en el paquete de datos de instalación.
 
 
-*******************************
+****************************
 Instalación y configuración
-**************************
+****************************
 
 	Ruta nativa absoluta en D:\R.Weather\
 
@@ -60,3 +60,7 @@ Instalación y configuración
 		Permitir el uso de macros: Ejecutar la aplicación y en el menú Archivo seleccionar Opciones de Access - Centros de Confianza - Configuración del Centro de Confianza - Configuración de Macros - Habilitar todas las macros.
 		
 		Configuración de cliente: Ejecutar la aplicación y en el menú Archivo seleccionar Opciones de Access - Configuración de Cliente - Confirmar, desactivar las casillas Cambios en los registros y Consultas de Acción, dejar marcado Eliminaciones de Documento.
+	
+	Fuente tipográfica: Segoe Ui Light. Esta fuente está incluida en el paquete de instalación de Microsoft Office 365.
+	
+	Notación numérica del sistema operativo: Separador decimal usando punto (.), separador de miles usando coma (m), separador de listas usado coma (,). COnfigurar desde el Panel de Control - Región - Formatos - Configuración Adicional - Números.

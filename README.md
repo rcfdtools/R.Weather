@@ -9,9 +9,9 @@ Cláusulas de autor a 2021.06.23
 
 Al descargar, descomprimir, instalar, usar o explorar esta herramienta, sus archivos y documentación, usted como empresa, individuo, estudiante, profesional, empleado o persona, acepta los siguientes términos de uso:
 
-r.cfdtools@gmail le concede una licencia de uso global, no exclusiva, de libre uso y revocable en cualquier momento, siempre y cuando sea única y exclusivamente para su uso personal o privado y no tenga como fin un uso comercial.
+r.cfdtools@gmail.com le concede una licencia de uso global, no exclusiva, de libre uso y revocable en cualquier momento, siempre y cuando sea única y exclusivamente para su uso personal o privado y no tenga como fin un uso comercial.
 
-Se permite la reproducción parcial o total de este documento, el modelo de datos y las herramientas de este sistema, siempre que se haga referencia como: "R.Weather CDMS – Sistema de Administración y Análisis de Datos Climatológicos, Software y Manual de Usuario, R- CFD (r.cfdtools@gmail.com), Bogotá - Colombia - Suramérica. 2017".
+Se permite la reproducción parcial o total de este documento, el modelo de datos y las herramientas de este sistema, siempre que se haga referencia como: "R.Weather CDMS – Sistema de Administración y Análisis de Datos Climatológicos, Software y Manual de Usuario, r.cfdtools@gmail.com, Bogotá - Colombia - Suramérica. 2017".
 
 Cláusula de exención de responsabilidad: r.cfdtools@gmail.com, No se responsabiliza de la aplicación y uso de los resultados obtenidos a través de sus modelos. Es responsabilidad de los usuarios; verificar, comparar, evaluar y analizar Si los scripts, algoritmos, funciones, objetos aplicados y los resultados obtenidos, cumplen con las metodologías y estándares de análisis aplicables en estadística e hidrología.
 

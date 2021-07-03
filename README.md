@@ -3,9 +3,8 @@ R.Weather CDMS por r.cfdtools@gmail.com
 R.Weather CDMS, es un sistema computacional que integra colecciones de datos y su representación espacial, facilitando el registro, manejo, análisis, distribución y utilización de datos hidroclimatológicos. 
 
 
-*******************************
-Cláusulas de autor a 2021.06.23
-*******************************
+### Cláusulas de autor a 2021.06.23
+
 
 Al descargar, descomprimir, instalar, usar o explorar esta herramienta, sus archivos y documentación, usted como empresa, individuo, estudiante, profesional, empleado o persona, acepta los siguientes términos de uso:
 
@@ -30,9 +29,7 @@ Se permite la modificación y mejora de los manuales, libros de cálculo electr�
 No se permite la privatización, acaparamiento, venta o distribución comercial de este software, ni ningúno de sus componentes, ni de las memorias de cálculo, de los scripts y demás herramientas complementarias que se encuentran en el paquete de datos de instalación.
 
 
-****************************
-Instalación y configuración
-****************************
+### Instalación y configuración
 
 	Ruta nativa absoluta en D:\R.Weather\
 

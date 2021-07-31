@@ -3,7 +3,7 @@
 R.Weather CDMS, es un sistema computacional que integra colecciones de datos y su representación espacial, facilitando el registro, manejo, análisis, distribución y utilización de datos hidroclimatológicos. 
 
 
-### Cláusulas de autor a 2021.06.23
+### Cláusulas de autor
 
 
 Al descargar, descomprimir, instalar, usar o explorar esta herramienta, sus archivos y documentación, usted como empresa, individuo, estudiante, profesional, empleado o persona, acepta los siguientes términos de uso:

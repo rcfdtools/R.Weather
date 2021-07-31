@@ -1,6 +1,4 @@
-![R.Weather_logo](https://github.com/rcfdtools/R.Weather/blob/main/Icons/Logo.R.WeatherBanner.png)
-
-R.Weather CDMS por r.cfdtools@gmail.com
+## R.Weather CDMS
 
 R.Weather CDMS, es un sistema computacional que integra colecciones de datos y su representación espacial, facilitando el registro, manejo, análisis, distribución y utilización de datos hidroclimatológicos. 
 
@@ -11,8 +9,6 @@ R.Weather CDMS, es un sistema computacional que integra colecciones de datos y s
 Al descargar, descomprimir, instalar, usar o explorar esta herramienta, sus archivos y documentación, usted como empresa, individuo, estudiante, profesional, empleado o persona, acepta los siguientes términos de uso:
 
 r.cfdtools@gmail.com le concede una licencia de uso global, no exclusiva, de libre uso y revocable en cualquier momento, siempre y cuando sea única y exclusivamente para su uso personal o privado y no tenga como fin un uso comercial.
-
-Se permite la reproducción parcial o total de este documento, el modelo de datos y las herramientas de este sistema, siempre que se haga referencia como: "R.Weather CDMS – Sistema de Administración y Análisis de Datos Climatológicos, Software y Manual de Usuario, r.cfdtools@gmail.com, Bogotá - Colombia - Suramérica. 2017".
 
 Cláusula de exención de responsabilidad: r.cfdtools@gmail.com, No se responsabiliza de la aplicación y uso de los resultados obtenidos a través de sus modelos. Es responsabilidad de los usuarios; verificar, comparar, evaluar y analizar Si los scripts, algoritmos, funciones, objetos aplicados y los resultados obtenidos, cumplen con las metodologías y estándares de análisis aplicables en estadística e hidrología.
 
@@ -30,9 +26,12 @@ Se permite la modificación y mejora de los manuales, libros de cálculo electr�
 
 No se permite la privatización, acaparamiento, venta o distribución comercial de este software, ni ningúno de sus componentes, ni de las memorias de cálculo, de los scripts y demás herramientas complementarias que se encuentran en el paquete de datos de instalación.
 
+### Citación
+
+Se permite la reproducción parcial o total de este documento, el modelo de datos y las herramientas de este sistema, siempre que se haga referencia como: "R.Weather CDMS – Sistema de Administración y Análisis de Datos Climatológicos, Software y Manual de Usuario, r.cfdtools@gmail.com, Bogotá - Colombia - Suramérica. 2017".
 
 ### Instalación y configuración
-
+	
 	Ruta nativa absoluta en D:\R.Weather\
 
 	Ruta nativa GIS absoluta en D:\R.WeatherGIS\

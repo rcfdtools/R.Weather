@@ -35,7 +35,7 @@ Se permite la reproducción parcial o total de este documento, el modelo de dato
 * Ruta nativa absoluta en D:\R.Weather\
 * Ruta nativa GIS absoluta en D:\R.WeatherGIS\
 * Ejecución desde el acceso directo D:\R.Weather\R.Weather o desde D:\R.Weather\DB\R.Weather.accdb
-* Sistema operativo Microsoft Windows [Versión 10.0.19043.1055] 
+* Sistema operativo Microsoft Windows [Testeado en versión 10.0.19043.1055]
 		
 * Software requerido
   * Microsoft® Access® para Microsoft 365 MSO (16.0.13901.20148 o superior) 32 o 64 bits. Instalado sobre unidad SSD.

@@ -41,9 +41,9 @@ Se permite la reproducción parcial o total de este documento, el modelo de dato
 * Sistema operativo
 ⋅⋅⋅Microsoft Windows [Versión 10.0.19043.1055] 
 		
-*Software requerido
-⋅⋅⋅Microsoft® Access® para Microsoft 365 MSO (16.0.13901.20148 o superior) 32 o 64 bits. Instalado sobre unidad SSD.
-⋅⋅⋅ESRI ArcGIS for Desktop 10.2.2 en Inglés.
+* Software requerido
+⋅⋅⋅ Microsoft® Access® para Microsoft 365 MSO (16.0.13901.20148 o superior) 32 o 64 bits. Instalado sobre unidad SSD.
+⋅⋅⋅ ESRI ArcGIS for Desktop 10.2.2 en Inglés.
 
 * Hardware
 ** Monitor con resolución: 1920 x 1080p.

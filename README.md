@@ -33,13 +33,9 @@ Se permite la reproducción parcial o total de este documento, el modelo de dato
 ### Instalación y configuración
 	
 * Ruta nativa absoluta en D:\R.Weather\
-
 * Ruta nativa GIS absoluta en D:\R.WeatherGIS\
-	
 * Ejecución desde el acceso directo D:\R.Weather\R.Weather o desde D:\R.Weather\DB\R.Weather.accdb
-
-* Sistema operativo
-⋅⋅⋅Microsoft Windows [Versión 10.0.19043.1055] 
+* Sistema operativo Microsoft Windows [Versión 10.0.19043.1055] 
 		
 * Software requerido
   * Microsoft® Access® para Microsoft 365 MSO (16.0.13901.20148 o superior) 32 o 64 bits. Instalado sobre unidad SSD.
@@ -54,9 +50,8 @@ Se permite la reproducción parcial o total de este documento, el modelo de dato
   * Tarjeta de video externa: Aceleradora mínimo 2GB para representación de escenas 3D y renderizado de modelos de terreno en 2D.
 
 * Configuración adicional requerida en Microsoft® Access® para Microsoft 365
-		
- * Permitir el uso de macros: Ejecutar la aplicación y en el menú Archivo seleccionar Opciones de Access - Centros de Confianza - Configuración del Centro de Confianza - Configuración de Macros - Habilitar todas las macros.
- * Configuración de cliente: Ejecutar la aplicación y en el menú Archivo seleccionar Opciones de Access - Configuración de Cliente - Confirmar, desactivar las casillas Cambios en los registros y Consultas de Acción, dejar marcado Eliminaciones de Documento.
- * Fuente tipográfica: Segoe Ui Light. Esta fuente está incluida en el paquete de instalación de Microsoft Office 365.
+  * Permitir el uso de macros: Ejecutar la aplicación y en el menú Archivo seleccionar Opciones de Access - Centros de Confianza - Configuración del Centro de Confianza - Configuración de Macros - Habilitar todas las macros.
+  * Configuración de cliente: Ejecutar la aplicación y en el menú Archivo seleccionar Opciones de Access - Configuración de Cliente - Confirmar, desactivar las casillas Cambios en los registros y Consultas de Acción, dejar marcado Eliminaciones de Documento.
+  * Fuente tipográfica: Segoe Ui Light. Esta fuente está incluida en el paquete de instalación de Microsoft Office 365.
 	
 * Notación numérica del sistema operativo: Separador decimal usando punto (.), separador de miles usando coma (m), separador de listas usado coma (,). COnfigurar desde el Panel de Control - Región - Formatos - Configuración Adicional - Números.

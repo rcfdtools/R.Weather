@@ -1,4 +1,6 @@
-## R.Weather CDMS
+<div align="center"><a href="https://github.com/rcfdtools" target="_blank"><img src="https://github.com/rcfdtools/rcfdtools/blob/main/graph/rcfdtools_banner.png" alt="R.LTWB" width="100%" border="0" /></a></div>
+
+# R.Weather CDMS - Climate Data Management System
 
 R.Weather CDMS, es un sistema computacional que integra colecciones de datos y su representación espacial, facilitando el registro, manejo, análisis, distribución y utilización de datos hidroclimatológicos. 
 
@@ -25,11 +27,13 @@ R.Weather CDMS, es un sistema computacional que integra colecciones de datos y s
 
 * No se permite la privatización, acaparamiento, venta o distribución comercial de este software, ni ningúno de sus componentes, ni de las memorias de cálculo, de los scripts y demás herramientas complementarias que se encuentran en el paquete de datos de instalación.
 
-### Citación
+
+## Citación
 
 Se permite la reproducción parcial o total de este documento, el modelo de datos y las herramientas de este sistema, siempre que se haga referencia como: "R.Weather CDMS – Sistema de Administración y Análisis de Datos Climatológicos, Software y Manual de Usuario, r.cfdtools@gmail.com, Bogotá - Colombia - Suramérica. 2017".
 
-### Instalación y configuración
+
+## Instalación y configuración
 	
 * Ruta nativa absoluta en D:\R.Weather\
 * Ruta nativa GIS absoluta en D:\R.WeatherGIS\
@@ -54,3 +58,9 @@ Se permite la reproducción parcial o total de este documento, el modelo de dato
   * Fuente tipográfica: Segoe Ui Light. Esta fuente está incluida en el paquete de instalación de Microsoft Office 365.
 	
 * Notación numérica del sistema operativo: Separador decimal usando punto (.), separador de miles usando coma (m), separador de listas usado coma (,). COnfigurar desde el Panel de Control - Región - Formatos - Configuración Adicional - Números.
+
+
+## Referencias
+
+* https://wmo.int/climate-data-management-systems-cdmss
+* https://old.wmo.int/extranet/pages/prog/wcp/wcdmp/CDM_3.php
